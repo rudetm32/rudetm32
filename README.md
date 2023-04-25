@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **rudetm32/rudetm32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
