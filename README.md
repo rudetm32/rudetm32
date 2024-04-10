@@ -8,7 +8,7 @@
 - 📫 Como contactarme **jruiz721818@gmail.com**
 
 - 📄 Acerca de mí
--  Siempre he tenido la inquietud de incursionar en la tecnología, es algo que me apasiona, he dedicado mi tiempo en adquirir conocimientos en tecnologías como JavaScript, Nodejs, TypeScript, Express, React, entre otros.  Al día de hoy busco encontrar una empresa donde colaborar y continuar sumando experiencias de este mundo fascinante, mi fortaleza en gran medida,  la persistencia a aprender y entender como funcionan las cosas y aunque gran parte de mi trayectoria estuvo encaminada a la seguridad patrimonial, donde tengo una experiencia de más de 15 años. No dudo que mis conocimientos en el desarrollo web aporten utilidad para la empresa que me permita sumarme a su equipo de desarrolladores. Por supuesto, siempre estoy dispuesto a dar lo mejor de mí para cumplir con los objetivos
+-  La tecnología es algo que me apasiona, he dedicado mi tiempo en adquirir conocimientos en tecnologías como JavaScript, Nodejs, TypeScript, Express, React, entre otros.  Al día de hoy busco encontrar una empresa donde colaborar y continuar sumando experiencias de este mundo fascinante, mi fortaleza en gran medida,  la persistencia a aprender y entender como funcionan las cosas y aunque gran parte de mi trayectoria estuvo encaminada a la seguridad patrimonial, donde tengo una experiencia de más de 15 años. No dudo que mis conocimientos en el desarrollo web aporten utilidad para la empresa que me permita sumarme a su equipo de desarrolladores. Por supuesto, siempre estoy dispuesto a dar lo mejor de mí para cumplir con los objetivos
 <p align="left">
 </p>
 
